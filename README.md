@@ -12,13 +12,6 @@ Predecir con alta precisión qué clientes tienen mayor probabilidad de abandona
 
 ---
 
-## 📁 Contenido del repositorio
-
-- `churn_model_notebook.ipynb`: contiene el proceso completo, desde la carga y análisis de datos hasta la serialización del modelo (`joblib`).
-- No se incluyen interfaces gráficas ni endpoints en este repositorio. **Este notebook es la base del modelo utilizado por la API y la WebApp.**
-
----
-
 ## ⚙️ Tecnologías y Herramientas
 
 - Python
@@ -43,8 +36,8 @@ Tras el procesamiento y la optimización con técnicas como ingeniería de carac
 
 ## 🔗 Enlaces Relacionados
 
-- 🔌 **API del modelo**: [Repositorio de la API](https://github.com/cesaredcruz/api-telecom-churn)
-- 🌐 **Web App**: [Aplicación Web de Predicción de Churn](https://churn-app-telecom.onrender.com)
+- 🔌 **API del modelo**: [Repositorio de la API](https://github.com/Lacruz0599/churn-prediction-api)
+- 🌐 **Web App**: [Aplicación Web de Predicción de Churn](https://github.com/Lacruz0599/Churn-Predictor-Web-App)
 
 ---
 
