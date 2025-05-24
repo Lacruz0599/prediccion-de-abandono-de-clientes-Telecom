@@ -48,3 +48,5 @@ Este desempeño convierte al modelo en una herramienta confiable para sistemas d
 **César Eduardo Cruz Cabrera**  
 [LinkedIn - César Eduardo Cruz Cabrera](https://www.linkedin.com/in/cesar-eduardo-cruz-cabrera)
 
+
+
