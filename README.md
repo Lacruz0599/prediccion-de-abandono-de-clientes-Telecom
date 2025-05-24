@@ -46,6 +46,5 @@ Este desempeño convierte al modelo en una herramienta confiable para sistemas d
 ## 👤 Autor
 
 **César Eduardo Cruz Cabrera**  
-*Científico de Datos en formación, con enfoque en soluciones aplicadas al sector financiero y de telecomunicaciones.*  
 [LinkedIn - César Eduardo Cruz Cabrera](https://www.linkedin.com/in/cesar-eduardo-cruz-cabrera)
 
