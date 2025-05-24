@@ -1,48 +1,51 @@
 # 📊 Modelo Predictivo de Churn - Telecom
 
-Este repositorio contiene exclusivamente el **notebook completo** del proceso de desarrollo del modelo de machine learning para predecir la deserción de clientes (**Churn**) en empresas de telecomunicaciones. Está basado en el **famoso conjunto de datos de Telecom**, utilizado ampliamente para estudios de retención de clientes.
+Este repositorio contiene el **notebook completo** del proceso de desarrollo de un modelo de machine learning para predecir la deserción de clientes (**churn**) en el sector de telecomunicaciones. El modelo fue entrenado y validado utilizando el reconocido **conjunto de datos de telecomunicaciones**, comúnmente utilizado para estudios de fidelización y análisis de clientes.
 
-El modelo desarrollado en este notebook es el núcleo que **alimenta tanto la API como la aplicación web** creadas para facilitar su uso desde diferentes plataformas.
+El modelo desarrollado aquí constituye la base que **alimenta tanto la API como la aplicación web** diseñadas para su consumo desde múltiples plataformas.
 
 ---
 
 ## 🧠 Objetivo del Proyecto
 
-Predecir con alta precisión qué clientes tienen mayor probabilidad de abandonar el servicio, permitiendo así a la empresa tomar acciones proactivas para retenerlos.
+Desarrollar un modelo de clasificación con alta capacidad predictiva que permita anticipar qué clientes tienen mayor probabilidad de abandonar el servicio. Esto proporciona a las empresas una herramienta valiosa para implementar estrategias de **retención proactiva**, mejorar la **experiencia del cliente** y optimizar sus recursos de marketing.
 
 ---
 
-## ⚙️ Tecnologías y Herramientas
+## ⚙️ Tecnologías y Herramientas Utilizadas
 
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Gradient Boosting
-- RandomizedSearchCV
-- Matplotlib / Seaborn
-- Joblib
+- **Lenguaje:** Python  
+- **Análisis de datos:** Pandas, NumPy  
+- **Visualización:** Matplotlib, Seaborn  
+- **Modelado:** Scikit-learn, Gradient Boosting  
+- **Optimización:** RandomizedSearchCV  
+- **Serialización del modelo:** Joblib  
+- **Entorno de trabajo:** Jupyter Notebook  
 
 ---
 
 ## ✅ Rendimiento del Modelo
 
-Tras el procesamiento y la optimización con técnicas como ingeniería de características y búsqueda de hiperparámetros, el modelo final (basado en **Gradient Boosting**) logró los siguientes resultados:
+El modelo final, basado en **Gradient Boosting**, fue optimizado mediante ingeniería de características y búsqueda de hiperparámetros. Los resultados obtenidos destacan por su solidez:
 
-- **AUC-ROC: 0.934**
-- Excelente capacidad de generalización y discriminación entre clases.
-- Adecuado para conjuntos de datos desbalanceados gracias al enfoque en métricas robustas y curvas ROC.
+- **AUC-ROC:** `0.934`  
+- Alto poder de discriminación entre clases.  
+- Buen rendimiento en conjuntos de datos desbalanceados gracias al enfoque en métricas robustas.  
+
+Este desempeño convierte al modelo en una herramienta confiable para sistemas de soporte a decisiones.
 
 ---
 
-## 🔗 Enlaces Relacionados
+## 🔗 Proyectos Relacionados
 
-- 🔌 **API del modelo**: [Repositorio de la API](https://github.com/Lacruz0599/churn-prediction-api)
-- 🌐 **Web App**: [Aplicación Web de Predicción de Churn](https://github.com/Lacruz0599/Churn-Predictor-Web-App)
+- 🔌 **API del modelo:** [Repositorio de la API](https://github.com/Lacruz0599/churn-prediction-api)  
+- 🌐 **Web App interactiva:** [Aplicación Web de Predicción de Churn](https://github.com/Lacruz0599/Churn-Predictor-Web-App)  
 
 ---
 
 ## 👤 Autor
 
 **César Eduardo Cruz Cabrera**  
-[LinkedIn](https://www.linkedin.com/in/cesar-eduardo-cruz-cabrera)
+*Científico de Datos en formación, con enfoque en soluciones aplicadas al sector financiero y de telecomunicaciones.*  
+[LinkedIn - César Eduardo Cruz Cabrera](https://www.linkedin.com/in/cesar-eduardo-cruz-cabrera)
 
